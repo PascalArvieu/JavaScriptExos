@@ -1,6 +1,6 @@
 // // Exercice 1
-// var coincoin = "Bien penser à mettre la ligne \"script type\" en bas, juste avant la fermeture de la balise \"body\"";
-// alert(coincoin)
+var coincoin = "Bien penser à mettre la ligne \"script type\" en bas, juste avant la fermeture de la balise \"body\"";
+alert(coincoin)
 
 // // Exercice 2
 // var lastName = "John";
@@ -10,8 +10,8 @@
 
 
 // Exercice 3
-var firstName = prompt("C'est quoi ton blaze ?", "<Entrez ici votre prénom>");
-    alert("Bonjour " + firstName + ", ça boume ?");
+// var firstName = prompt("C'est quoi ton blaze ?", "<Entrez ici votre prénom>");
+//     alert("Bonjour " + firstName + ", ça boume ?");
 
 // Exercice 4
 // function OKgood() {
