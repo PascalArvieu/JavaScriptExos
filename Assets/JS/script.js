@@ -10,17 +10,17 @@
 
 
 // Exercice 3
-// var firstName = prompt("C'est quoi ton blaze ?", "<Entrez ici votre prénom>");
-//     alert("Bonjour " + firstName + ", ça boume ?");
+var firstName = prompt("C'est quoi ton blaze ?", "<Entrez ici votre prénom>");
+    alert("Bonjour " + firstName + ", ça boume ?");
 
 // Exercice 4
-function OKgood() {
-    var firstName = document.getElementById("firstName").value;
-    var lastName = document.getElementById("lastName").value;
-    var city = document.getElementById("city").value;
+// function OKgood() {
+//     var firstName = document.getElementById("firstName").value;
+//     var lastName = document.getElementById("lastName").value;
+//     var city = document.getElementById("city").value;
 
-    alert("Prénom : " + firstName + "\n" + "Nom : " + lastName + "\n" + "Ville : " + city);
-}
+//     alert("Prénom : " + firstName + "\n" + "Nom : " + lastName + "\n" + "Ville : " + city);
+// }
 
 
 // var lastName = prompt("Nom : ");
