@@ -3,15 +3,15 @@
 // alert(coincoin)
 
 // // Exercice 2
-// var lastName = "John";
-// var firstName = "Doe";
-// var city = "Chicago";
-//     alert("Nom : " + lastName + "\n" + "Prénom : " + firstName + "\n" + "Ville : " + city);
+var lastName = "John";
+var firstName = "Doe";
+var city = "Chicago";
+    alert("Nom : " + lastName + "\n" + "Prénom : " + firstName + "\n" + "Ville : " + city);
 
 
 // Exercice 3
-var firstName = prompt("C'est quoi ton blaze ?", "<Entrez ici votre prénom>");
-    alert("Bonjour " + firstName + ", ça boume ?");
+// var firstName = prompt("C'est quoi ton blaze ?", "<Entrez ici votre prénom>");
+//     alert("Bonjour " + firstName + ", ça boume ?");
 
 // Exercice 4
 // function OKgood() {
